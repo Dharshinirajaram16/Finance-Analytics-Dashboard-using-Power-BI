@@ -1,5 +1,7 @@
 # DAX Measures Used in Finance Analytics Dashboard
 
+## DAX Measures
+
 ## 1. Total Amount
 
 ```DAX
@@ -122,8 +124,9 @@ YoY Tax % =
 DIVIDE(
     [Total Tax] - [Previous Year Tax],
     [Previous Year Tax])
+```
 
-## Dynamic Metrics
+## Dynamic metrics
 
 ## 1.Selected Year
 
