@@ -77,7 +77,7 @@ Before creating the dashboard, data quality checks were performed to ensure accu
 
 ### Data Quality Check
 
-![Data Quality Check](Assets/1.%20Data%20Quality%20Check.png)
+![Data Quality Check](Assets/01_Data_Quality_Check.png)
 
 This step helped identify inconsistencies and ensured that the dataset was suitable for further analysis.
 
@@ -138,6 +138,13 @@ These transformations improved data quality and reporting accuracy.
 The overview dashboard provides a high-level summary of transaction performance, customer segments, and financial metrics through KPI cards and interactive visualizations.
 
 ---
+## Project Files
+
+### Power BI Dashboard
+
+Download the Power BI dashboard file:
+
+[Finance Analytics.pbix](Dashboard/Finance%20Analytics.pbix)
 
 ## Specific Month Analysis
 
